@@ -1,0 +1,5 @@
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net5.0-windows7.0\Welding_Calculation.csproj.AssemblyReference.cache
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net5.0-windows7.0\Welding_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net5.0-windows7.0\Welding_Calculation.AssemblyInfoInputs.cache
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net5.0-windows7.0\Welding_Calculation.AssemblyInfo.cs
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net5.0-windows7.0\Welding_Calculation.csproj.CoreCompileInputs.cache

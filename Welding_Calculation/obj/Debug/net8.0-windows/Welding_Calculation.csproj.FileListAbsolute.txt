@@ -1,0 +1,12 @@
+D:\Welding_Calculation\Welding_Calculation\bin\Debug\net8.0-windows\Welding_Calculation.deps.json
+D:\Welding_Calculation\Welding_Calculation\bin\Debug\net8.0-windows\Welding_Calculation.dll
+D:\Welding_Calculation\Welding_Calculation\bin\Debug\net8.0-windows\Welding_Calculation.pdb
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net8.0-windows\Welding_Calculation.csproj.AssemblyReference.cache
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net8.0-windows\Welding_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net8.0-windows\Welding_Calculation.AssemblyInfoInputs.cache
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net8.0-windows\Welding_Calculation.AssemblyInfo.cs
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net8.0-windows\Welding_Calculation.csproj.CoreCompileInputs.cache
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net8.0-windows\Welding_Calculation.dll
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net8.0-windows\refint\Welding_Calculation.dll
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net8.0-windows\Welding_Calculation.pdb
+D:\Welding_Calculation\Welding_Calculation\obj\Debug\net8.0-windows\ref\Welding_Calculation.dll
