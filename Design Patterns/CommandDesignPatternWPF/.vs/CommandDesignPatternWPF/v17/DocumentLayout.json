@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Design Patterns\\CommandDesignPatternWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|D:\\Design Patterns\\CommandDesignPatternWPF\\commanddesignpatternwpf\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|solutionrelative:commanddesignpatternwpf\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|d:\\design patterns\\commanddesignpatternwpf\\commanddesignpatternwpf\\models\\user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|solutionrelative:commanddesignpatternwpf\\models\\user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|d:\\design patterns\\commanddesignpatternwpf\\commanddesignpatternwpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|solutionrelative:commanddesignpatternwpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|d:\\design patterns\\commanddesignpatternwpf\\commanddesignpatternwpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|solutionrelative:commanddesignpatternwpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|d:\\design patterns\\commanddesignpatternwpf\\commanddesignpatternwpf\\databaseservice\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|solutionrelative:commanddesignpatternwpf\\databaseservice\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|D:\\Design Patterns\\CommandDesignPatternWPF\\commanddesignpatternwpf\\command\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|solutionrelative:commanddesignpatternwpf\\command\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|d:\\design patterns\\commanddesignpatternwpf\\commanddesignpatternwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{77062DD7-6071-4B6E-A037-5C6260565E7F}|CommandDesignPatternWPF\\CommandDesignPatternWPF.csproj|solutionrelative:commanddesignpatternwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "CommandDesignPatternWPF\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "CommandDesignPatternWPF\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T07:17:58.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CommandDesignPatternWPF\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "CommandDesignPatternWPF\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-06T08:55:37.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CommandDesignPatternWPF\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CommandDesignPatternWPF\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvxcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:33:04.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Command.cs",
+              "DocumentMoniker": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\Command\\Command.cs",
+              "RelativeDocumentMoniker": "CommandDesignPatternWPF\\Command\\Command.cs",
+              "ToolTip": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\Command\\Command.cs",
+              "RelativeToolTip": "CommandDesignPatternWPF\\Command\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:08:17.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User1.cs",
+              "DocumentMoniker": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\Models\\User1.cs",
+              "RelativeDocumentMoniker": "CommandDesignPatternWPF\\Models\\User1.cs",
+              "ToolTip": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\Models\\User1.cs",
+              "RelativeToolTip": "CommandDesignPatternWPF\\Models\\User1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T10:05:07.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataBaseService.cs",
+              "DocumentMoniker": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\DatabaseService\\DataBaseService.cs",
+              "RelativeDocumentMoniker": "CommandDesignPatternWPF\\DatabaseService\\DataBaseService.cs",
+              "ToolTip": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\DatabaseService\\DataBaseService.cs",
+              "RelativeToolTip": "CommandDesignPatternWPF\\DatabaseService\\DataBaseService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAEwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:51:44.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\App.xaml",
+              "RelativeDocumentMoniker": "CommandDesignPatternWPF\\App.xaml",
+              "ToolTip": "D:\\Design Patterns\\CommandDesignPatternWPF\\CommandDesignPatternWPF\\App.xaml",
+              "RelativeToolTip": "CommandDesignPatternWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T07:27:52.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

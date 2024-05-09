@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="211" Width="384">
+    <Border BorderBrush="SkyBlue" BorderThickness="1" Margin="2">
+        <Grid >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="13*"/>
+                <ColumnDefinition Width="11*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="18*"/>
+                <RowDefinition Height="23*"/>
+                <RowDefinition Height="99*"/>
+                <RowDefinition Height="55*"/>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="dataSaveLabel" HorizontalAlignment="Left" Margin="45,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Height="23" Width="309" Grid.Row="1" Grid.ColumnSpan="2"><Run Text="Please Select"/><Run Text=" the Option to Save"/><Run Language="en-in" Text=" :"/><LineBreak/><Run/><Run Text="  "/></TextBlock>
+            <CheckBox x:Name="modlElemChkBox" Content="Model Element Quantity" HorizontalAlignment="Left" Margin="49,12,0,0" VerticalAlignment="Top" Height="20" Width="172" Grid.Row="2" Grid.ColumnSpan="2"/>
+            <CheckBox x:Name="EstElemChkBox" Content="Estimated Element Quantity" HorizontalAlignment="Left" Margin="49,36,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.296,-1.488"  Height="21" Width="181" Grid.Row="2" Grid.ColumnSpan="2"/>
+            <CheckBox x:Name="bothModlEstChxBox" Content="Save Both Model And Estimated Element Quantities " HorizontalAlignment="Left" Margin="49,60,0,0" VerticalAlignment="Top" Height="17" Width="309" Grid.Row="2" Grid.ColumnSpan="2" />
+            <Button x:Name="dataSaveOkBtn" Content="OK" HorizontalAlignment="Left" VerticalAlignment="Top" Width="58" Height="22" Grid.Row="3" Grid.Column="1" RenderTransformOrigin="1.177,0.658" Margin="4,9,0,0" />
+            <Button x:Name="CancelDataSaveBtn" Content="Cancel" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.707,-0.499" Width="64" Height="22" Grid.Row="3" Grid.Column="1" Margin="74,9,0,0" />
+
+        </Grid>
+    </Border>
+</Window>
